@@ -1,4 +1,4 @@
-# Blender-render-resolution
+# Blender render resolution
 Extension of render resolution selection for Blender.
 
 ## The templates for the resolutions can be found here:
